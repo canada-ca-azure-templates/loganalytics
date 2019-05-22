@@ -64,10 +64,10 @@ This is helpfull to ensure there will be no workspace duplicates in Azure as it 
 
 ## History
 
-| Date     | Change                                                                                                       |
-| -------- | ------------------------------------------------------------------------------------------------------------ |
-| 20181214 | Implementing new template name as template.json                                                              |
-| 20190205 | Cleanup template folder                                                                                      |
-| 20190226 | Add the ability to use a special token ([unique]) in the workspace name to ensure workspace name uniqueness. |
-| 20190301 | Transformed the template to be resourcegroup deployed rather than subscription level deployed.               |
-| 20190502 | Update readme                                                                                                |
+| Date     | Release                                                                             | Change                                                                                                       |
+| -------- | ----------------------------------------------------------------------------------- |
+| 20181214 |                                                                                     | Implementing new template name as template.json                                                              |
+| 20190205 |                                                                                     | Cleanup template folder                                                                                      |
+| 20190226 |                                                                                     | Add the ability to use a special token ([unique]) in the workspace name to ensure workspace name uniqueness. |
+| 20190301 |                                                                                     | Transformed the template to be resourcegroup deployed rather than subscription level deployed.               |
+| 20190501 | [20190501](https://github.com/canada-ca-azure-templates/loganalytics/tree/20190501) | Updated documentation and add remaining type of DNS records                                                  |
