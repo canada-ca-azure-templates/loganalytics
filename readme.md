@@ -65,7 +65,7 @@ This is helpfull to ensure there will be no workspace duplicates in Azure as it 
 ## History
 
 | Date     | Release                                                                             | Change                                                                                                       |
-| -------- | ----------------------------------------------------------------------------------- |
+| -------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | 20181214 |                                                                                     | Implementing new template name as template.json                                                              |
 | 20190205 |                                                                                     | Cleanup template folder                                                                                      |
 | 20190226 |                                                                                     | Add the ability to use a special token ([unique]) in the workspace name to ensure workspace name uniqueness. |
